@@ -118,7 +118,7 @@ mvn test
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/SecureScan.git
+git clone https://github.com/StefanJosevski/SecureScan.git
 cd SecureScan
 
 # Build the project
